@@ -1,4 +1,4 @@
-# Link Tracker — Paso 3 (Estructura del repo)
+# Link Tracker — (Estructura del repo)
 Este repo es el esqueleto del Desafío 3.
 Archivos:
 - handler.py
@@ -8,5 +8,5 @@ Archivos:
 - README.md
 
 Siguiente:
-- Paso 4: Infra (DynamoDB + Lambda + HTTP API) en `serverless.yml`.
-- Paso 5: Implementar `track_click` en `handler.py`.
+- Paso 1: Infra (DynamoDB + Lambda + HTTP API) en `serverless.yml`.
+- Paso 2: Implementar `track_click` en `handler.py`.
